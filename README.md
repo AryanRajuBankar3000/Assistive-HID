@@ -24,4 +24,4 @@ This project is an Assistive Human Interface Device (HID) designed to empower in
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+   git clone https://github.com/AryanRajuBankar3000/Assistive-HID
